@@ -26,7 +26,9 @@ BINS = \
 	hello.asmbin \
 	mmio.asmbin \
 	quicksort.asmbin \
-	sb.asmbin
+	sb.asmbin \
+	# add by david965154
+	priorityencoder.asmbin
 
 # Clear the .DEFAULT_GOAL special variable, so that the following turns
 # to the first target after .DEFAULT_GOAL is not set.
